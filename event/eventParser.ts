@@ -2,13 +2,17 @@ import { HTMLDocument, Node } from "https://deno.land/x/deno_dom@v0.1.36-alpha/d
 import { CalendarEvent } from "./calendarEvent.ts";
 
 export default class EventParser {
-  *parse(document: HTMLDocument) {
+  parse(document: HTMLDocument) {
+    const events: CalendarEvent[] = [];
     const eventNodes = document?.querySelectorAll('#CalendarModal li');
 
     if (eventNodes) {
       for (const eventNode of eventNodes) {
-        yield this.toEvent(eventNode)};
+        events.push(this.toEvent(eventNode));
       }
+    }
+
+    return events;
   }
 
   private toEvent(eventNode: Node) {
