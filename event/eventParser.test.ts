@@ -30,4 +30,10 @@ describe('eventParser.parse', () => {
     assertEquals(events[1].Date, new Date('2022-12-13 20:00:00 GMT-0500'));
     assertEquals(events[2].Date, new Date('2022-12-15 19:30:00 GMT-0500'));
   });
+
+  it('parses the event place correctly', () => {
+    assertEquals(events[0].Place, 'Argyle Park');
+    assertEquals(events[1].Place, 'Village Hall');
+    assertEquals(events[2].Place, 'Village Hall');
+  });
 })

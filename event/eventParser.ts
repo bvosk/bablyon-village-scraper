@@ -18,8 +18,9 @@ export default class EventParser {
   private toEvent(eventNode: Node) {
     const name = this.getEventName(eventNode);
     const date = this.getEventDate(eventNode);
+    const place = this.getEventPlace(eventNode);
 
-    return new CalendarEvent(name, date);
+    return new CalendarEvent(name, date, place);
   }
 
   private getEventName(eventNode: Node) {
@@ -45,5 +46,15 @@ export default class EventParser {
 
     const date = new Date(`${dateString} ${timeString}`);
     return date;
+  }
+
+  private getEventPlace(eventNode: Node) {
+    return eventNode.textContent
+      .trim()
+      .split(/\r?\n/)
+      [4]
+      .split(' ')
+      .splice(3)
+      .join(' ');
   }
 }
