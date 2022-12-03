@@ -5,11 +5,9 @@ const url = 'https://www.villageofbabylonny.gov/'
 const res = await fetch(url);
 
 const html = await res.text();
-const document = new DOMParser().parseFromString(html, 'text/html');
+const document = new DOMParser().parseFromString(html, 'text/html')!;
 
 const eventParser = new EventParser();
 const events = eventParser.parse(document);
 
-for (const event of events) {
-  console.log(JSON.stringify(event));
-}
+await Deno.writeTextFile(Deno.args[0], JSON.stringify(events, null, 2));
