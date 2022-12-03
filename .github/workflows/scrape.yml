@@ -13,6 +13,10 @@ jobs:
       uses: denoland/setup-deno@v1
       with:
         deno-version: v1.x
+    - name: Set timezone
+      uses: szenius/set-timezone@v1.0
+      with:
+        timezoneLinux: "America/New_York"
     - name: Run scraper script
       run: ./run.sh
       shell: bash
