@@ -17,7 +17,29 @@ export default class EventParser {
 
   private toEvent(eventNode: Node) {
     const name = eventNode.textContent.trim().split(/\r?\n/)[3];
-    const date = new Date();
+    
+    const monthAbbreviation = eventNode.textContent
+      .trim()
+      .split(/\r?\n/)[0];
+      const dayNumber = eventNode.textContent
+      .trim()
+      .split(/\r?\n/)[1];
+    const timeAndPlaceString = eventNode.textContent
+      .trim()
+      .split(/\r?\n/)[4];
+    let timeNumber = timeAndPlaceString.split(' ')[0];
+    const timeAmOrPm = timeAndPlaceString.split(' ')[1];
+
+    if (timeNumber.indexOf(':') < 0) {
+      timeNumber += ':00';
+    }
+
+    const timeString = `${timeNumber} ${timeAmOrPm}`;
+
+    const dateString = `${monthAbbreviation} ${dayNumber} ${new Date().getFullYear()}`;
+
+    const date = new Date(`${dateString} ${timeString}`);
+
     return new CalendarEvent(name, date);
   }
 }

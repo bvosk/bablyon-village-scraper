@@ -24,4 +24,10 @@ describe('eventParser.parse', () => {
     assertEquals(events[1].Name, 'Board of Trustees Meeting');
     assertEquals(events[2].Name, 'Planning Board Meeting');
   });
+
+  it('parses the event date correctly', () => {
+    assertEquals(events[0].Date, new Date('2022-12-04 16:00:00 GMT-0500'));
+    assertEquals(events[1].Date, new Date('2022-12-13 20:00:00 GMT-0500'));
+    assertEquals(events[2].Date, new Date('2022-12-15 19:30:00 GMT-0500'));
+  });
 })
