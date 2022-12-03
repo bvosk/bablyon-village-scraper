@@ -19,4 +19,11 @@ describe('eventParser', () => {
     assert(events);
     assertEquals(events.length, 10);
   });
+
+  it('parses the event name correctly', () => {
+    const events = eventParser.parse(document!);
+    assertEquals(events[0].Name, 'Tree Lighting');
+    assertEquals(events[1].Name, 'Board of Trustees Meeting');
+    assertEquals(events[2].Name, 'Planning Board Meeting');
+  });
 })

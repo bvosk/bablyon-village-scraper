@@ -16,7 +16,7 @@ export default class EventParser {
   }
 
   private toEvent(eventNode: Node) {
-    const name = eventNode.textContent.trim();
+    const name = eventNode.textContent.trim().split(/\r?\n/)[3];
     const date = new Date();
     return new CalendarEvent(name, date);
   }
