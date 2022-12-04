@@ -1,0 +1,23 @@
+on:
+  push:
+    branches:
+      - "main"
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Use Deno
+      uses: denoland/setup-deno@v1
+      with:
+        deno-version: v1.x
+    - name: Set timezone
+      uses: szenius/set-timezone@v1.1
+      with:
+        timezoneLinux: "America/New_York"
+    - name: Test
+      run: ./test.sh
+      shell: bash
