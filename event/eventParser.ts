@@ -52,7 +52,7 @@ export default class EventParser {
     return eventNode.textContent
       .trim()
       .split(/\r?\n/)
-      [4]
+      [2]
       .split(' ')
       .splice(3)
       .join(' ');
