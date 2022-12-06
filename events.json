@@ -1,10 +1,5 @@
 [
   {
-    "Name": "Tree Lighting",
-    "Date": "2022-12-04T21:00:00.000Z",
-    "Place": "Argyle Park"
-  },
-  {
     "Name": "Board of Trustees Meeting",
     "Date": "2022-12-14T01:00:00.000Z",
     "Place": "Village Hall"
@@ -47,6 +42,46 @@
   {
     "Name": "Planning Board",
     "Date": "2022-01-27T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ARB Meeting ",
+    "Date": "2022-02-03T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Facade Committee",
+    "Date": "2022-02-02T23:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Board of Trustees Meeting",
+    "Date": "2022-02-15T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2022-02-16T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Planning Board Meeting",
+    "Date": "2022-02-24T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Board of Trustees Meeting",
+    "Date": "2022-02-02T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": "2022-03-03T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Facade Committee",
+    "Date": "2022-03-02T23:00:00.000Z",
     "Place": "Village Hall"
   }
 ]
