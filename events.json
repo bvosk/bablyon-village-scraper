@@ -61,7 +61,7 @@
   },
   {
     "Name": "Board of Trustees Meeting",
-    "Date": "2022-02-02T01:00:00.000Z",
+    "Date": "2022-03-01T01:00:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -72,6 +72,31 @@
   {
     "Name": "Facade Committee",
     "Date": "2022-03-02T23:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Board of Trustees Meeting",
+    "Date": "2022-03-15T00:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2022-03-15T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "St Patrick's Day Parade",
+    "Date": "2022-03-19T18:00:00.000Z",
+    "Place": "Village of Babylon"
+  },
+  {
+    "Name": "Board of Trustees Meeting",
+    "Date": "2022-03-29T00:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Planning Board Meeting",
+    "Date": "2022-03-30T23:30:00.000Z",
     "Place": "Village Hall"
   }
 ]
