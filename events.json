@@ -1,10 +1,5 @@
 [
   {
-    "Name": "Zoning Board Meeting",
-    "Date": "2022-12-22T00:30:00.000Z",
-    "Place": "Village Hall"
-  },
-  {
     "Name": "Facade Committee",
     "Date": "2022-01-05T23:00:00.000Z",
     "Place": "Village Hall"
@@ -175,8 +170,23 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2022-06-21T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2022-06-28T00:00:00.000Z",
     "Place": "Village of Babylon"
+  },
+  {
+    "Name": "Planning Board Meeting",
+    "Date": "2022-06-29T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Facade Committee",
+    "Date": "2022-07-06T22:00:00.000Z",
+    "Place": "Village Hall"
   }
 ]
