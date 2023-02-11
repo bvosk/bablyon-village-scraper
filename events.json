@@ -1,5 +1,10 @@
 [
   {
+    "Name": "Pool/Swim Registration",
+    "Date": null,
+    "Place": "PM Saturday Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-02-15T01:00:00.000Z",
     "Place": "Village Hall"
@@ -95,9 +100,19 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "Pool/Swim Registration",
+    "Date": null,
+    "Place": "PM Saturday Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-05-10T00:00:00.000Z",
     "Place": "Village Hall"
+  },
+  {
+    "Name": "Pool/Swim Registration",
+    "Date": null,
+    "Place": "PM Saturday Village Hall"
   },
   {
     "Name": "ZBA Meeting",
@@ -125,6 +140,16 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "Pool/Swim Registration",
+    "Date": null,
+    "Place": "PM Saturday Village Hall"
+  },
+  {
+    "Name": "Late Pool/Swim Registration",
+    "Date": null,
+    "Place": "PM Saturday Gilbert C. Hanse Municipal Pool"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-06-14T00:00:00.000Z",
     "Place": "Village Hall"
@@ -133,6 +158,16 @@
     "Name": "ZBA Meeting",
     "Date": "2023-06-21T23:30:00.000Z",
     "Place": "Village Hall"
+  },
+  {
+    "Name": "No Request Band",
+    "Date": "2023-07-24T00:00:00.000Z",
+    "Place": "Village Gazebo"
+  },
+  {
+    "Name": "Village Pool Opening Day",
+    "Date": null,
+    "Place": "PM Friday Gilbert C. Hanse Municipal Pool Fire Island Ave"
   },
   {
     "Name": "Board of Trustees Meeting",
@@ -145,6 +180,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "The History of Rock N Roll ",
+    "Date": "2023-07-01T00:00:00.000Z",
+    "Place": "Friday Village Gazebo"
+  },
+  {
     "Name": "ARB Meeting",
     "Date": "2023-07-06T23:30:00.000Z",
     "Place": "Village Hall"
@@ -155,14 +195,29 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "The Liverpool Shuffle",
+    "Date": "2023-07-08T00:00:00.000Z",
+    "Place": "Village Gazebo"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-07-12T00:00:00.000Z",
     "Place": "Village Hall"
   },
   {
+    "Name": "Floyd Levy Band",
+    "Date": "2023-07-15T00:00:00.000Z",
+    "Place": "Village Gazebo"
+  },
+  {
     "Name": "ZBA Meeting",
     "Date": "2023-07-19T23:30:00.000Z",
     "Place": "Village of Babylon"
+  },
+  {
+    "Name": "Elton John and the Piano Men Show",
+    "Date": "2023-07-22T00:00:00.000Z",
+    "Place": "Village Gazebo"
   },
   {
     "Name": "Board of Trustees Meeting",
@@ -175,9 +230,34 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "Elvis Tribute Artist",
+    "Date": "2023-07-29T00:00:00.000Z",
+    "Place": "Village Gazebo"
+  },
+  {
+    "Name": "The Frayed Knots",
+    "Date": "2023-08-05T00:00:00.000Z",
+    "Place": "Gazebo Concert"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-08-09T00:00:00.000Z",
     "Place": "Village Hall"
+  },
+  {
+    "Name": "The Clusters",
+    "Date": "2023-08-12T00:00:00.000Z",
+    "Place": "Village Gazebo"
+  },
+  {
+    "Name": "Steely Dan Tribute Band",
+    "Date": "2023-08-19T00:00:00.000Z",
+    "Place": "Village Gazebo"
+  },
+  {
+    "Name": "The Blend Band - 60,70,80\"s",
+    "Date": "2023-08-26T00:00:00.000Z",
+    "Place": "Village Gazebo"
   },
   {
     "Name": "ARB Meeting",
