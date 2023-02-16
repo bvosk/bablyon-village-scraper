@@ -5,11 +5,6 @@
     "Place": "PM Saturday Village Hall"
   },
   {
-    "Name": "Board of Trustees Meeting",
-    "Date": "2023-02-15T01:00:00.000Z",
-    "Place": "Village Hall"
-  },
-  {
     "Name": "ZBA Meeting",
     "Date": "2023-02-16T00:30:00.000Z",
     "Place": "Village Hall"
@@ -288,5 +283,65 @@
     "Name": "Planning Board Meeting",
     "Date": "2023-09-28T23:30:00.000Z",
     "Place": "Village of Babylon"
+  },
+  {
+    "Name": "Facade Committee Meeting",
+    "Date": "2023-10-05T22:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": "2023-10-05T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Board of Trustees Meeting ",
+    "Date": "2023-10-11T00:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2023-10-18T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Board of Trustees Meeting",
+    "Date": "2023-10-25T00:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Planning Board Meeting",
+    "Date": "2023-10-26T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Facade Committee",
+    "Date": "2023-11-02T22:00:00.000Z",
+    "Place": "Thursday Village Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": "2023-11-02T23:30:00.000Z",
+    "Place": "Village of Babylon"
+  },
+  {
+    "Name": "Board of Trustees Meeting",
+    "Date": "2023-11-15T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2023-11-16T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Board of Trustees Meeting",
+    "Date": "2023-11-29T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Planning Board Meeting",
+    "Date": "2023-12-01T00:30:00.000Z",
+    "Place": "Village Hall"
   }
 ]
