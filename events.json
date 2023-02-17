@@ -5,11 +5,6 @@
     "Place": "PM Saturday Village Hall"
   },
   {
-    "Name": "ZBA Meeting",
-    "Date": "2023-02-16T00:30:00.000Z",
-    "Place": "Village Hall"
-  },
-  {
     "Name": "Planning Board Meeting",
     "Date": "2023-02-24T00:30:00.000Z",
     "Place": "Village Hall"
@@ -342,6 +337,31 @@
   {
     "Name": "Planning Board Meeting",
     "Date": "2023-12-01T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Facade Committee",
+    "Date": "2023-12-07T23:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": null,
+    "Place": "Hall"
+  },
+  {
+    "Name": "Board of Trustees Meeting",
+    "Date": "2023-12-13T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2023-12-21T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Planning Board Meeting",
+    "Date": "2023-12-22T00:30:00.000Z",
     "Place": "Village Hall"
   }
 ]
