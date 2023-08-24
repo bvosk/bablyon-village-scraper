@@ -110,14 +110,34 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "Picture Perfect  *Sign up on Eventbrite",
+    "Date": "2023-11-18T21:00:00.000Z",
+    "Place": "The Nathaniel Conklin House"
+  },
+  {
+    "Name": "Santa Paws  *Sign up on Eventbrite",
+    "Date": null,
+    "Place": "Nathaniel Conklin House"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-11-29T01:00:00.000Z",
     "Place": "Village Hall"
   },
   {
+    "Name": "Conklin Cookie Contest Drop off ",
+    "Date": null,
+    "Place": "Nathaniel Conklin House"
+  },
+  {
     "Name": "Planning Board Meeting",
     "Date": "2023-12-01T00:30:00.000Z",
     "Place": "Village Hall"
+  },
+  {
+    "Name": "Conklin House Open House Night",
+    "Date": null,
+    "Place": "Nathaniel Conklin House"
   },
   {
     "Name": "Facade Committee",
