@@ -55,6 +55,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2023-10-18T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Apples & Art Reception ",
     "Date": null,
     "Place": "PM Friday Nathaniel Conklin House"
@@ -66,13 +71,8 @@
   },
   {
     "Name": "Apples & Arts ",
-    "Date": "2023-10-15T19:00:00.000Z",
+    "Date": "2023-10-22T19:00:00.000Z",
     "Place": "Nathaniel Conklin House"
-  },
-  {
-    "Name": "ZBA Meeting",
-    "Date": "2023-10-18T23:30:00.000Z",
-    "Place": "Village Hall"
   },
   {
     "Name": "Board of Trustees Meeting",
