@@ -10,6 +10,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2023-01-18T00:30:00.000Z",
+    "Place": "Village of Babylon"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-01-24T01:00:00.000Z",
     "Place": "Village Hall"
@@ -40,6 +45,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2023-03-01T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "ARB Meeting",
     "Date": "2023-03-08T00:30:00.000Z",
     "Place": "Village Hall"
@@ -47,6 +57,11 @@
   {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-03-13T00:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2023-03-20T23:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -70,6 +85,11 @@
     "Place": "Tuesday Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2023-11-16T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-04-24T00:00:00.000Z",
     "Place": "Village Hall"
@@ -81,8 +101,8 @@
   },
   {
     "Name": "ARB Meeting",
-    "Date": null,
-    "Place": "Hall"
+    "Date": "2023-05-02T23:30:00.000Z",
+    "Place": "Village Hall"
   },
   {
     "Name": "Pool/Swim Registration",
@@ -170,6 +190,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ARB Meeting",
+    "Date": "2023-09-05T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-09-11T00:00:00.000Z",
     "Place": "Village Hall"
@@ -183,6 +208,11 @@
     "Name": "Planning Board",
     "Date": null,
     "Place": "Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": "2023-10-03T23:30:00.000Z",
+    "Place": "Village Hall"
   },
   {
     "Name": "Board of Trustees Meeting",
@@ -200,6 +230,11 @@
     "Place": "Hall"
   },
   {
+    "Name": "ARB Meeting",
+    "Date": "2023-11-08T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-11-13T01:00:00.000Z",
     "Place": "Village Hall"
@@ -212,6 +247,11 @@
   {
     "Name": "Board of Trustees Meeting",
     "Date": "2023-11-27T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": "2023-12-06T00:30:00.000Z",
     "Place": "Village Hall"
   },
   {
