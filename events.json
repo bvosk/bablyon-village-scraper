@@ -1,10 +1,5 @@
 [
   {
-    "Name": "Board of Trustees Meeting",
-    "Date": "2024-01-10T01:00:00.000Z",
-    "Place": "Village Hall"
-  },
-  {
     "Name": "ZBA Meeting",
     "Date": "2024-01-18T00:30:00.000Z",
     "Place": "Village of Babylon"
@@ -81,7 +76,7 @@
   },
   {
     "Name": "ZBA Meeting",
-    "Date": "2024-11-16T00:30:00.000Z",
+    "Date": "2024-04-17T23:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -107,6 +102,11 @@
   {
     "Name": "Board of Trustees Meeting",
     "Date": "2024-05-15T00:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2024-05-15T23:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -145,6 +145,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2024-06-12T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2024-06-26T00:00:00.000Z",
     "Place": "Village Hall"
@@ -167,6 +172,11 @@
   {
     "Name": "ARB Meeting",
     "Date": "2024-07-11T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2024-07-17T23:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -195,6 +205,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2024-09-18T23:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2024-09-25T00:00:00.000Z",
     "Place": "Village Hall"
@@ -212,6 +227,11 @@
   {
     "Name": "Board of Trustees Meeting",
     "Date": "2024-10-09T00:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2024-10-16T23:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -235,6 +255,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2024-11-21T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Planning Board",
     "Date": null,
     "Place": "Hall"
@@ -252,6 +277,11 @@
   {
     "Name": "Board of Trustees Meeting",
     "Date": "2024-12-11T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2024-12-19T00:30:00.000Z",
     "Place": "Village Hall"
   },
   {
