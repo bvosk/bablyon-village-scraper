@@ -115,6 +115,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "No Request Band",
+    "Date": null,
+    "Place": "(if rain the concert is held at Babylon High School)"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2024-07-10T00:00:00.000Z",
     "Place": "Village Hall"
@@ -125,9 +130,19 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "Floyd Levy",
+    "Date": null,
+    "Place": "(Concert will be held at Babylon High School if it rains)"
+  },
+  {
     "Name": "ZBA Meeting",
     "Date": "2024-07-17T23:30:00.000Z",
     "Place": "Village Hall"
+  },
+  {
+    "Name": "The Clusters",
+    "Date": null,
+    "Place": "(Concert will be held at Babylon High School if it rains)"
   },
   {
     "Name": "Board of Trustees Meeting",
@@ -138,6 +153,16 @@
     "Name": "Planning Board",
     "Date": null,
     "Place": "Hall"
+  },
+  {
+    "Name": "Elvis Tribute Artist Gerry Ferretti",
+    "Date": null,
+    "Place": "(Concert will be held at Babylon High School if it rains)"
+  },
+  {
+    "Name": "The Liverpool Shuffle",
+    "Date": null,
+    "Place": "(Concert will be held at Babylon High School if it rains)"
   },
   {
     "Name": "Board of Trustees Meeting",
