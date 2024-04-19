@@ -1,10 +1,5 @@
 [
   {
-    "Name": "ZBA Meeting",
-    "Date": "2024-04-17T23:30:00.000Z",
-    "Place": "Village Hall"
-  },
-  {
     "Name": "Planning Board Meeting",
     "Date": "2024-04-18T23:30:00.000Z",
     "Place": "Village Hall"
@@ -92,7 +87,7 @@
   {
     "Name": "No Request Band",
     "Date": null,
-    "Place": "(if rain the concert is held at Babylon High School)"
+    "Place": ""
   },
   {
     "Name": "Board of Trustees Meeting",
@@ -107,7 +102,7 @@
   {
     "Name": "Floyd Levy",
     "Date": null,
-    "Place": "(Concert will be held at Babylon High School if it rains)"
+    "Place": ""
   },
   {
     "Name": "ZBA Meeting",
@@ -117,7 +112,7 @@
   {
     "Name": "The Clusters",
     "Date": null,
-    "Place": "(Concert will be held at Babylon High School if it rains)"
+    "Place": ""
   },
   {
     "Name": "Board of Trustees Meeting",
@@ -157,7 +152,7 @@
   {
     "Name": "JC and The Crocodiles - Elton John and The Piano Men Show",
     "Date": null,
-    "Place": "- Concert will be held in Babylon High School if it rains."
+    "Place": ""
   },
   {
     "Name": "The Blend Band - Motown, 60's & 70's ",
