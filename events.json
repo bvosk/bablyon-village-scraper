@@ -1,10 +1,5 @@
 [
   {
-    "Name": "Planning Board Meeting",
-    "Date": "2024-04-18T23:30:00.000Z",
-    "Place": "Village Hall"
-  },
-  {
     "Name": "Board of Trustees Meeting",
     "Date": "2024-04-24T00:00:00.000Z",
     "Place": "Village Hall"
@@ -127,17 +122,17 @@
   {
     "Name": "Elvis Tribute Artist Gerry Ferretti",
     "Date": null,
-    "Place": "(Concert will be held at Babylon High School if it rains)"
+    "Place": ""
   },
   {
     "Name": "The Liverpool Shuffle",
     "Date": null,
-    "Place": "(Concert will be held at Babylon High School if it rains)"
+    "Place": ""
   },
   {
     "Name": "History of Rock N Roll ",
     "Date": null,
-    "Place": "- Concert will be held in Babylon High School if it rains."
+    "Place": ""
   },
   {
     "Name": "Board of Trustees Meeting",
@@ -147,7 +142,7 @@
   {
     "Name": "Steeley Dan Tribute Band",
     "Date": null,
-    "Place": "- Concert will be held in Babylon High School if it rains."
+    "Place": ""
   },
   {
     "Name": "JC and The Crocodiles - Elton John and The Piano Men Show",
@@ -157,7 +152,7 @@
   {
     "Name": "The Blend Band - Motown, 60's & 70's ",
     "Date": null,
-    "Place": "- Concert will be held in Babylon High School if it rains."
+    "Place": ""
   },
   {
     "Name": "ARB Meeting",
