@@ -26,9 +26,10 @@ describe('eventParser.parse', () => {
   });
 
   it('parses the event date correctly', () => {
-    assertEquals(events[0].Date, new Date('2022-12-04 16:00:00 GMT-0500'));
-    assertEquals(events[1].Date, new Date('2022-12-13 20:00:00 GMT-0500'));
-    assertEquals(events[2].Date, new Date('2022-12-15 19:30:00 GMT-0500'));
+    const currentYear = new Date().getFullYear();
+    assertEquals(events[0].Date, new Date(`DEC 4 ${currentYear} 16:00:00 GMT-0500`));
+    assertEquals(events[1].Date, new Date(`DEC 13 ${currentYear} 20:00:00 GMT-0500`));
+    assertEquals(events[2].Date, new Date(`DEC 15 ${currentYear} 19:30:00 GMT-0500`));
   });
 
   it('parses the event place correctly', () => {
@@ -37,3 +38,4 @@ describe('eventParser.parse', () => {
     assertEquals(events[2].Place, 'Village Hall');
   });
 })
+
