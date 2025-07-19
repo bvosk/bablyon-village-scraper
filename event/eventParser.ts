@@ -44,7 +44,7 @@ export default class EventParser {
 
     const dateString = `${monthAbbreviation} ${dayNumber} ${new Date().getFullYear()}`;
 
-    const date = new Date(`${dateString} ${timeString}`);
+    const date = new Date(`${dateString} ${timeString} GMT-0500`);
     return date;
   }
 
@@ -58,3 +58,4 @@ export default class EventParser {
       .join(' ');
   }
 }
+
