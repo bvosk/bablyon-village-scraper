@@ -3,7 +3,7 @@ on:
     branches:
       - "main"
   schedule:
-    - cron: "0 1 * * *" # Every day at 1am UTC (6am ET)
+    - cron: "0 1 * * *" # Every day at 1am UTC (9pm ET during Daylight Saving Time, 8pm ET during Standard Time)
 
 jobs:
   scrape:
