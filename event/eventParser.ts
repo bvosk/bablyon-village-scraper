@@ -35,11 +35,16 @@ export default class EventParser {
     const dayNumber = eventTextTokens[1];
     const timeAndPlaceString = eventTextTokens[4];
 
-    let timeNumber = timeAndPlaceString.split(' ')[0];
-    if(timeNumber.indexOf(':') < 0) {
+    const timeMatch = timeAndPlaceString.trim().match(/^(\d{1,2}(?::\d{2})?)\s*([AaPp][Mm])/);
+    if (!timeMatch) {
+      return new Date(NaN);
+    }
+
+    let timeNumber = timeMatch[1];
+    if (timeNumber.indexOf(':') < 0) {
       timeNumber += ':00';
     }
-    const timeAmOrPm = timeAndPlaceString.split(' ')[1];
+    const timeAmOrPm = timeMatch[2].toUpperCase();
     const timeString = `${timeNumber} ${timeAmOrPm}`;
 
     const dateString = `${monthAbbreviation} ${dayNumber} ${new Date().getFullYear()}`;
