@@ -37,5 +37,23 @@ describe('eventParser.parse', () => {
     assertEquals(events[1].Place, 'Village Hall');
     assertEquals(events[2].Place, 'Village Hall');
   });
+
+  it('parses times without space before am/pm', () => {
+    const html = `
+      <ul id="CalendarModal">
+        <li class="list-group-item">
+          <div class="calendar-list">
+            <span class="month bg-cyan-p">JUL</span>
+            <span class="day">18</span>
+          </div>
+          Concert<br />
+          8pm Friday Gazebo
+        </li>
+      </ul>`;
+    const doc = new DOMParser().parseFromString(html, 'text/html')!;
+    const result = new EventParser().parse(doc);
+    const currentYear = new Date().getFullYear();
+    assertEquals(result[0].Date, new Date(`JUL 18 ${currentYear} 20:00:00 GMT-0500`));
+  });
 })
 
