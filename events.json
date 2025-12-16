@@ -1,17 +1,22 @@
 [
   {
-    "Name": "ZBA Meeting",
-    "Date": "2025-12-18T00:30:00.000Z",
-    "Place": "Village Hall"
-  },
-  {
     "Name": "Planning Board Meeting",
     "Date": null,
     "Place": "Hall"
   },
   {
+    "Name": "ARB Meeting",
+    "Date": "2025-01-09T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-01-14T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2025-01-22T00:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -20,8 +25,18 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ARB Meeting",
+    "Date": "2025-02-06T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-02-11T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2025-02-19T00:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -30,9 +45,19 @@
     "Place": "Tuesday Village Hall"
   },
   {
+    "Name": "ARB Meeting",
+    "Date": "2025-03-06T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-03-11T01:00:00.000Z",
     "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2025-03-19T00:30:00.000Z",
+    "Place": "Village Hall Upstairs"
   },
   {
     "Name": "Board of Trustees Meeting",
@@ -40,13 +65,28 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ARB Meeting",
+    "Date": "2025-04-03T00:30:00.000Z",
+    "Place": "Village of Babylon"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-04-15T01:00:00.000Z",
     "Place": "Tuesday Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2025-04-16T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-04-29T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": "2025-05-08T00:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -55,8 +95,18 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2025-05-21T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-05-27T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": "2025-06-05T00:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -65,13 +115,28 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2025-06-18T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-06-24T01:00:00.000Z",
     "Place": "Village Hall"
   },
   {
+    "Name": "ARB Meeting",
+    "Date": "2025-07-03T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-07-15T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2025-07-16T00:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -85,8 +150,18 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ARB Meeting",
+    "Date": "2025-09-04T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-09-09T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ZBA Meeting",
+    "Date": "2025-09-17T00:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -95,13 +170,28 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ARB Meeting",
+    "Date": "2025-10-02T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-10-14T01:00:00.000Z",
     "Place": "Village of Babylon"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2025-10-22T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-10-28T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": "2025-11-06T00:30:00.000Z",
     "Place": "Village Hall"
   },
   {
@@ -110,8 +200,23 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "ZBA Meeting",
+    "Date": "2025-11-19T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2025-11-25T01:00:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "ARB Meeting",
+    "Date": "2025-12-04T00:30:00.000Z",
+    "Place": "Village Hall"
+  },
+  {
+    "Name": "Board of Trustees Meeting ",
+    "Date": "2025-12-09T01:00:00.000Z",
     "Place": "Village Hall"
   }
 ]
