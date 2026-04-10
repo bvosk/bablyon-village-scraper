@@ -110,6 +110,11 @@
     "Place": "Village Hall"
   },
   {
+    "Name": "The Blend Band - Motown, 60's & 70's",
+    "Date": "2026-06-27T01:00:00.000Z",
+    "Place": "Village Gazebo rain or shine"
+  },
+  {
     "Name": "Village Pool Opening Day",
     "Date": null,
     "Place": "Friday 700 Fire Island Avenue"
@@ -125,6 +130,11 @@
     "Place": "Hall"
   },
   {
+    "Name": "Elvis Tribute Artist Gerry Ferretti",
+    "Date": "2026-07-11T01:00:00.000Z",
+    "Place": "Gazebo rain or shine"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2026-07-15T01:00:00.000Z",
     "Place": "Village Hall"
@@ -133,6 +143,16 @@
     "Name": "ZBA Meeting",
     "Date": "2026-07-16T00:30:00.000Z",
     "Place": "Village Hall"
+  },
+  {
+    "Name": "The Clusters 50's Classics",
+    "Date": "2026-07-18T01:00:00.000Z",
+    "Place": "Gazebo rain or shine"
+  },
+  {
+    "Name": "Trobadours",
+    "Date": "2026-07-25T01:00:00.000Z",
+    "Place": "Gazebo Rain or Shine"
   },
   {
     "Name": "Board of Trustees Meeting",
@@ -145,9 +165,34 @@
     "Place": "Village of Babylon"
   },
   {
+    "Name": "Sweet Ride LI Rock & Roll, Country, Blues",
+    "Date": "2026-08-01T01:00:00.000Z",
+    "Place": "Gazebo rain or shine"
+  },
+  {
+    "Name": "The Liverpool Shuffle Beatles Tribute",
+    "Date": "2026-08-08T01:00:00.000Z",
+    "Place": "Gazebo rain or shine"
+  },
+  {
     "Name": "Board of Trustees Meeting",
     "Date": "2026-08-12T01:00:00.000Z",
     "Place": "Village Hall"
+  },
+  {
+    "Name": "Grand Blvd Band 60's and more",
+    "Date": "2026-08-15T01:00:00.000Z",
+    "Place": "Gazebo rain or shine"
+  },
+  {
+    "Name": "4 Ways from Sunday 60s & 70s Classic Hits ",
+    "Date": "2026-08-22T01:00:00.000Z",
+    "Place": "Gazebo rain or shine"
+  },
+  {
+    "Name": "JC Keys Band Billy Joel, Elton John, Barry Manilow",
+    "Date": null,
+    "Place": "Gazebo rain or shine"
   },
   {
     "Name": "ARB Meeting",
