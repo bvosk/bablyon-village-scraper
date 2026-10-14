@@ -5,6 +5,21 @@
     "Place": "Village of Babylon"
   },
   {
+    "Name": "Apples and Arts Reception ",
+    "Date": null,
+    "Place": "Nathaniel Conklin House"
+  },
+  {
+    "Name": "Apples and Arts Festival",
+    "Date": null,
+    "Place": "Conklin House"
+  },
+  {
+    "Name": "Apples and Art Showcase",
+    "Date": null,
+    "Place": "Conklin House"
+  },
+  {
     "Name": "ZBA Meeting",
     "Date": "2026-10-22T00:30:00.000Z",
     "Place": "Village Hall"
@@ -68,6 +83,11 @@
     "Name": "Holiday Cookie Contest",
     "Date": "2026-12-03T23:00:00.000Z",
     "Place": "Nathaniel Conklin House pre register @ Historical Society or Library"
+  },
+  {
+    "Name": "Holiday Open House",
+    "Date": null,
+    "Place": "Nathaniel Conklin House"
   },
   {
     "Name": "Tree Lighting at Argyle Park",
